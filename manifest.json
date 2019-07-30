@@ -1,0 +1,17 @@
+{
+	"name" : "Online Khabar Clean Feed",
+	"version" : "1.0",
+	"description" : "Removing all the advertisements",
+	"manifest_version" : 2,
+	"content_scripts" : [
+		{
+			"js" : ["contentScript.js"],
+			"matches" : ["https://*.onlinekhabar.com/*"]
+		
+		}
+	],
+	"icons": { "16": "okclean-16.png",
+		"48": "okclean-48.png",
+	   "128": "okclean-128.png" }
+
+}
