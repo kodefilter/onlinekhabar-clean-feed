@@ -1,8 +1,8 @@
 # onlinekhabar-clean-feed
 
-Google Chrome Extension For Removing Local Ads Of onlineKhabar.com
+Google Chrome Extension For Removing Local Ads Of onlinekhabar.com
 
-The new site has many other distracting sponser advertisements which can't be removed by Adblocker. 
+The news site has many other distracting sponser advertisements which can't be removed by Adblocker. 
 Since almost all of these advertisements are gif animations it affects the reading experince for the reader.
 
 Here I have created very simple two line of code extension that selects elements that contains advertiments and sets
