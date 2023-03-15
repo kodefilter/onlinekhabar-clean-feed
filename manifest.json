@@ -6,9 +6,7 @@
 	"permissions": [
 		"activeTab"
 	 ],
-	 "host_permissions": [
-		["https://*.onlinekhabar.com/*"]
-	 ],
+	 "host_permissions": ["https://*.onlinekhabar.com/*"],
 	"content_scripts" : [
 		{
 			"css": ["style.css"],
